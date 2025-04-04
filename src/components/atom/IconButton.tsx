@@ -1,6 +1,6 @@
 /** @jsxImportSource @emotion/react */
 import styled from '@emotion/styled'
-import Icon from '../atom/Icon' // ← 이 부분만 바뀜
+import Icon from './Icon' // ← 이 부분만 바뀜
 
 interface IconButtonProps {
   icon: string

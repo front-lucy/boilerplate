@@ -1,1 +1,0 @@
-const r={primary:"#FF008A",primary10:"#FFE5F3",primary30:"#FFB2DC",primary50:"#FF80C4",primary60:"#FF66B9",primary80:"#FF33A1",primary_black10:"#E5007C",gray6:"#333333",gray5:"#666666",gray4:"#999999",gray3:"#CCCCCC",gray2:"#EEEEEE",gray1:"#FAFAFA",white:"#FFFFFF"};export{r as c};

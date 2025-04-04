@@ -1,4 +1,4 @@
-import IconButton from '@/components/molecule/IconButton'
+import IconButton from '@/components/atom/IconButton'
 import type { Meta, StoryObj } from '@storybook/react'
 
 const meta: Meta<typeof IconButton> = {
