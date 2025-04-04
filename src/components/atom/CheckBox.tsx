@@ -1,11 +1,11 @@
 /** @jsxImportSource @emotion/react */
-import checkIcon from '@/assets/icons/icon-checkbox-check.svg'
-import disabledIcon from '@/assets/icons/icon-checkbox-disabled.svg'
-import indeterminateIcon from '@/assets/icons/icon-checkbox-indeterminate.svg'
-import unCheckIcon from '@/assets/icons/icon-checkbox-unCheck.svg'
 import { colors } from '@/tokens/colors'
 import { typography } from '@/tokens/typography'
 import styled from '@emotion/styled'
+import checkIcon from '/icons/icon-checkbox-check.svg'
+import disabledIcon from '/icons/icon-checkbox-disabled.svg'
+import indeterminateIcon from '/icons/icon-checkbox-indeterminate.svg'
+import unCheckIcon from '/icons/icon-checkbox-unCheck.svg'
 
 interface CheckBoxProps {
   text?: string
